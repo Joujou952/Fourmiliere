@@ -1,5 +1,5 @@
 # Fourmiliere
-Création de environnement d'une fourmilière en C.
+Création d'environnement d'une fourmilière en C.
 
 L’objectif de ce projet est de simuler l’intelligence collective d’une colonie de fourmis en quête de nourriture.
 1. Lire l'article «L’intelligence collective» de Fabrice Rossi publié dans le GNU/Linux Magazine n°51 de juin 2003 à
